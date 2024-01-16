@@ -1,0 +1,9 @@
+Project Objective
+The goal of today's project is to learn to use Selenium to automate
+applying for jobs. Thus, by the end of today, you should have a program
+ that can use LinkedIn's "Easy Apply" function to send applications to
+  all the jobs that meet your criteria (instead of just a single listing).
+
+If you have any reservations about sending job applications to the job
+ listings on LinkedIn, an alternative is to "Save" all the jobs that meet
+  your criteria and follow the company that posted the job instead.
